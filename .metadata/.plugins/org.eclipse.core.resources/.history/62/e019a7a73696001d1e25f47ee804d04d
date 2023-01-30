@@ -1,0 +1,5 @@
+package com.ar.entities;
+
+public class User {
+
+}

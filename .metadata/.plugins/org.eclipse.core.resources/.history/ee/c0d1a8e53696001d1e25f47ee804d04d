@@ -1,0 +1,5 @@
+package com.ar.repository;
+
+public class UserRepository {
+
+}
